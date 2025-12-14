@@ -20,7 +20,7 @@
 ### 🚀 Featured Projects
 
 - **Meal Mitra – Food Donation Platform**  
-  Connects food donors with NGOs and people in need, helping reduce food waste with real-time SMS alerts and an AI assistant for better user experience.
+  Connects food donors with NGOs and people in need, helping reduce food waste with real-time SMS alerts and an AI assistant.
 
 - **Clean Mitra – Smart Waste Management**  
   JavaFX desktop application with Admin, Driver, and User roles to manage waste pickup requests, assignments, and tracking using MongoDB.
@@ -77,9 +77,10 @@
 ### 🏆 Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hemacharanreddy&theme=algolia&margin-w=10&margin-h=10" alt="hemacharanreddy" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hemacharanreddy&theme=algolia&margin-w=10&margin-h=10"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ---
