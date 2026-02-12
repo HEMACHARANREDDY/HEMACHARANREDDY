@@ -1,30 +1,104 @@
-##💫 About Me:
-🔭 Built: Meal Mitra – Food Donation Platform<br>👯 Also built: Clean Mitra – Smart Waste Management Application<br>🌱 Exploring: Full-Stack Development, Data Engineering & AI<br>📫 Reach me at: hemacharan499@gmail.com<br>⚡ Fun fact: I enjoy turning real-world problems into clean, working code
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm K Hema Charan Reddy</h1>
+<h3 align="center">Full-Stack Developer | B.Tech CSE | Cloud & API Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hema-charan-reddy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemacharan499@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HEMACHARANREDDY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HEMACHARANREDDY&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HEMACHARANREDDY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HEMACHARANREDDY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HEMACHARANREDDY&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/hema-charan-reddy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hemacharan499@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HEMACHARANREDDY">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HEMACHARANREDDY&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+🎓 Third-year **B.Tech Computer Science** student with a **9.5 CGPA**  
+💻 Passionate about **building real-world full-stack applications**  
+☁️ Interested in **Cloud, APIs, and scalable systems**  
+🧠 Strong foundation in **DSA, OOP, DBMS, OS & Computer Networks**
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend & Cloud
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📌 Featured Projects
+
+### 🥗 Meal Mitra — Food Donation Platform
+**Tech:** MERN, Twilio API, Gemini AI  
+- Reduced food waste by **~30%**
+- AI chatbot for user guidance
+- Real-time SMS notifications
+- Responsive & mobile-friendly UI
+
+🔗 https://github.com/mealmitra
+
+---
+
+### ♻️ Clean Mitra — Waste Management System
+**Tech:** Java, JavaFX, MongoDB  
+- Role-based system (Admin / Driver / User)
+- Clean UI with JavaFX
+- Strong OOP-based architecture
+
+---
+
+### 🚦 Smart Speed Breaker — IoT Safety System
+**Tech:** Arduino, C++, Ultrasonic Sensors  
+- Dynamic speed breaker based on vehicle speed
+- Designed for school & residential safety zones
+
+---
+
+## 🏆 Certifications
+✔ AWS Certified Cloud Practitioner  
+✔ MongoDB Associate Developer  
+✔ Advanced Automation Professional  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HEMACHARANREDDY&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMACHARANREDDY&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HEMACHARANREDDY/HEMACHARANREDDY/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🤝 Let’s Connect
+📩 Email: **hemacharan499@gmail.com**  
+🔗 LinkedIn: **hema-charan-reddy**
+
+⭐ *If you like my work, consider starring my repositories!*
